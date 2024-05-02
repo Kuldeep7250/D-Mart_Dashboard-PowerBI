@@ -7,9 +7,9 @@ This repository hosts the code and assets for the D Mart Dashboard project in Po
 - Customer Insights
 - Store Performance Evaluation
 
-**Usage:**
-1. Clone the repository.
-2. Open `D_Mart_Dashboard.pbix` in Power BI Desktop.
-3. Explore tabs for various insights.
-4. Customize and share the dashboard.
+1. **Sales Analysis:** Visualize sales trends by product categories, regions, and customer segments.
+2. **Inventory Management:** Monitor inventory levels and analyze stock movement for efficient management.
+3. **Profitability Analysis:** Evaluate gross profit margin, net profit margin, and contribution margin across different dimensions.
+4. **Customer Insights:** Explore customer demographics, purchasing behavior, and loyalty patterns.
+5. **Store Performance:** Evaluate sales, profitability, and operational metrics for individual stores.
 
