@@ -1,7 +1,5 @@
 # D-Mart_Dashboard-PowerBI
-**Overview:**
-This repository hosts the code and assets for the D Mart Dashboard project in Power BI, offering insights into a fictional retail chain's performance.
-
+The D-Mart Data Dashboard in Power BI offers a comprehensive overview of the retail chain's operational and financial performance.
 **Features:**
 - Sales, Inventory, and Profitability Analysis
 - Customer Insights
